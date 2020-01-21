@@ -7,6 +7,8 @@ public class Arrow {
 		
 		System.out.println();
 		System.out.println();
+		
+		System.out.println();
 	}
 
 }
